@@ -1,4 +1,4 @@
-package dbmskursSSG;
+package dbmskursSSGdesktop;
 
 import java.net.*;
 import java.sql.*;
